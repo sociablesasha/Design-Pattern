@@ -1,6 +1,6 @@
 package Chain_of_Responsibility;
 
-public class Main {
+public class Client {
 
     public static void main(String[] args) {
         Support alice = new NoSupport("Alice");
