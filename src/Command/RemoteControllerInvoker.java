@@ -19,7 +19,5 @@ public class RemoteControllerInvoker {
     public void buttonLightOff() {
         lightOff.execute();
     }
-
-
-
+    
 }
