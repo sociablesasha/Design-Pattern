@@ -1,4 +1,4 @@
-package mediator;
+package Mediator;
 
 public class ConcreteMediator implements Mediator {
 
