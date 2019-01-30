@@ -1,9 +1,5 @@
 package Creational.Abstract_Factory;
 
-enum Architecture {
-    A, B
-}
-
 public abstract class AbstractFactory {
 
     private static final ConcreteFactoryA CONCRETE_FACTORY_A = new ConcreteFactoryA();
